@@ -115,7 +115,7 @@ const Harsh Rawte = {
   <p align="center">
     <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM5NXJmYWRrNTRvMmwwZWtveDJqNHYxYmVlYmw2Z3U1NjJqeHNzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlwcGw5bmYzbmhnaWJkdW5zbnVqZjFkdTg2anhzMWJjd3E2bWx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="280" />
   </p>
   <p align="center">CI/CD Pipelines, Container Orchestration, Infrastructure as Code</p>
 </details>
@@ -184,8 +184,8 @@ const Harsh Rawte = {
 </h2>
 
 <p align="center">
-  <a href="https://github.com/harshhrawte/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical" width="400">
+  <a href="https://github.com/harshhrawte/SelectifyAi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=radical" width="400">
   </a>
   <!-- Add more featured projects as needed -->
 </p>
