@@ -3,7 +3,8 @@
   Hi, I'm Harsh Rawte
 </h1>
 
-<h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack Enthusiast | DevOps Practitioner</h3>
+<h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack Enthusiast | AWS, Docker & Jenkins Expert | DevOps Professional</h3>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshhrawte&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrawte" />
