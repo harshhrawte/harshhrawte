@@ -89,11 +89,6 @@
 
 ---
 
-### 🐍 Snake Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshhrawte/harshhrawte/output/snake.svg" alt="Snake animation" />
-</p>
 
 ---
 
