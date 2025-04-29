@@ -3,7 +3,7 @@
   Hi, I'm Harsh Rawte
 </h1>
 
-<h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack Enthusiast | AWS, Docker & Jenkins Expert | DevOps Professional</h3>
+<h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack | AWS, Docker & Jenkins Expert | DevOps Professional</h3>
 
 
 <p align="center">
