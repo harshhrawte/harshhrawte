@@ -113,8 +113,8 @@ const Harsh Rawte = {
   <br>
   <p align="center">
     <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/8OTxSsEKzMs2A/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/b7yzS4HbvmWTA2vU1R/giphy.gif" width="280" />
+    <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="280" />
+ <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExajM5NXJmYWRrNTRvMmwwZWtveDJqNHYxYmVlYmw2Z3U1NjJqeHNzdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="280" />
   </p>
   <p align="center">CI/CD Pipelines, Container Orchestration, Infrastructure as Code</p>
 </details>
@@ -125,8 +125,8 @@ const Harsh Rawte = {
   <br>
   <p align="center">
     <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/xT9C8DgDVrVNld1Bni/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/l46Cei9gnXYQYmKSQ/giphy.gif" width="280" />
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR0aTMwYmw0czJ0Y3V4MDVpbnNrMDE2eDR0MDRhdGJvYmR3ZWxlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D8KpfyMWk53FK/giphy.gif" width="280" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg3Ymxhd282anBxZ2syMHgzdXpzNXowZzhkMmN3NWs0ZnBpaWMzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="280" />
   </p>
   <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
 </details>
@@ -136,7 +136,7 @@ const Harsh Rawte = {
   <summary><b>🌐 Web Development</b></summary>
   <br>
   <p align="center">
-    <img src="https://media.giphy.com/media/RJVt9vSIZ5vTmLN0a7/giphy.gif" width="280" />
+   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmMyYzhmMzYxYjFkMzBmNWE0M2RlOWRlYWFmYjRmOTJmMWVjMmQ0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" />
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc1YmlrMW04ZWpmeTlxdHF3NjBveDRnbDhwMjNheGZ0ZTlkNnUxbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
     <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
