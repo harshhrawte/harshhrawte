@@ -23,7 +23,7 @@
 </h2>
 
 ```javascript
-const harshRawte = {
+const Harsh Rawte = {
   location: "India",
   currentFocus: "PrepNexus: Interview Prep Platform",
   learning: ["Kubernetes", "Generative AI", "LLMOps"],
