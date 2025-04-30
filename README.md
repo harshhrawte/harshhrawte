@@ -113,7 +113,7 @@ const Harsh Rawte = {
   <summary><b>🔄 DevOps & Cloud Engineering</b></summary>
   <br>
   <p align="center">
-    <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/giphy.gif" width="280" />
+    <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="280" />
     <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" width="280" />
  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlwcGw5bmYzbmhnaWJkdW5zbnVqZjFkdTg2anhzMWJjd3E2bWx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="280" />
   </p>
