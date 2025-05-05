@@ -25,7 +25,7 @@
 
 ```javascript
 const Harsh Rawte = {
-  location: "India",
+  location: "Mumbai",
   currentFocus: "PrepNexus: Interview Prep Platform",
   learning: ["Kubernetes", "Generative AI", "LLMOps"],
   seeking: ["AI/ML Collaboration", "MERN Stack Development"],
