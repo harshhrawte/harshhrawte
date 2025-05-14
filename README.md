@@ -5,7 +5,6 @@
 
 <h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack | AWS, Docker & Jenkins Expert | DevOps Professional</h3>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=harshhrawte&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrawte" />
   <a href="https://github.com/harshhrawte?tab=followers">
