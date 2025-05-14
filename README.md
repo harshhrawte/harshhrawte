@@ -108,7 +108,7 @@ const Harsh Rawte = {
 </details>
 
 <!-- DevOps Section -->
-<details>
+<details open>
   <summary><b>🔄 DevOps & Cloud Engineering</b></summary>
   <br>
   <p align="center">
@@ -120,7 +120,7 @@ const Harsh Rawte = {
 </details>
 
 <!-- Data Science Section -->
-<details>
+<details open>
   <summary><b>📊 Data Science & Analysis</b></summary>
   <br>
   <p align="center">
@@ -132,7 +132,7 @@ const Harsh Rawte = {
 </details>
 
 <!-- MERN Stack Section -->
-<details>
+<details open>
   <summary><b>🌐 Web Development</b></summary>
   <br>
   <p align="center">
