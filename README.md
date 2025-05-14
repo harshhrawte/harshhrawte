@@ -102,7 +102,7 @@ const Harsh Rawte = {
   <p align="center">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR0aTMwYmw0czJ0Y3V4MDVpbnNrMDE2eDR0MDRhdGJvYmR3ZWxlNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/D8KpfyMWk53FK/giphy.gif" width="280" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="280" />
   </p>
   <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
 </details>
