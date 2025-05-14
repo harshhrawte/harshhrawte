@@ -125,8 +125,8 @@ const Harsh Rawte = {
   <summary><b>📊 Data Science & Analysis</b></summary>
   <br>
   <p align="center">
-    <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="280" />
+    <img src="https://media.giphy.com/media/TyxMStrdr7EVnel56L/giphy.gif?cid=ecf05e47dkq2e5imflt5ahdcr6dlwudi48yszjapzbvjartq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" />
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW43aTFpdzFuOXY5bWZoeXF4MDIzMGh6ZXRzMnh3dnp4bGF5cXZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfYXjXTyxDGpRkbl7d/giphy.gif" width="280" />
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmg3Ymxhd282anBxZ2syMHgzdXpzNXowZzhkMmN3NWs0ZnBpaWMzbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3osxYc2axjCJNsCXyE/giphy.gif" width="280" />
   </p>
   <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
