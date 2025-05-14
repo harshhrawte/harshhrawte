@@ -100,9 +100,9 @@ const Harsh Rawte = {
   <summary><b>🧠 AI/ML & Deep Learning</b></summary>
   <br>
   <p align="center">
-   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs5eXh3ODJxZmpkaTZndnR6aDhrNWlweDVwMm01MnM3Y290cWV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="280" />
+   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
+    <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="280" />
   </p>
   <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
 </details>
