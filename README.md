@@ -108,6 +108,18 @@ const Harsh Rawte = {
   <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
 </details>
 
+<!-- Data Science Section -->
+<details open>
+  <summary><b>📊 Data Science & Analysis</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW43aTFpdzFuOXY5bWZoeXF4MDIzMGh6ZXRzMnh3dnp4bGF5cXZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfYXjXTyxDGpRkbl7d/giphy.gif" width="280" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3OXAwenYxN3B3aHhpdmdqeHp1cTlxMXM2MDV6NmNwbjl5c2g5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5OgQSxhzjR1t4McGc/giphy.gif" width="280" />
+     <img src="https://media.giphy.com/media/TyxMStrdr7EVnel56L/giphy.gif?cid=ecf05e47dkq2e5imflt5ahdcr6dlwudi48yszjapzbvjartq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" />
+  </p>
+  <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
+</details>
+
 <!-- DevOps Section -->
 <details open>
   <summary><b>🔄 DevOps & Cloud Engineering</b></summary>
@@ -120,17 +132,7 @@ const Harsh Rawte = {
   <p align="center">CI/CD Pipelines, Container Orchestration, Infrastructure as Code</p>
 </details>
 
-<!-- Data Science Section -->
-<details open>
-  <summary><b>📊 Data Science & Analysis</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW43aTFpdzFuOXY5bWZoeXF4MDIzMGh6ZXRzMnh3dnp4bGF5cXZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfYXjXTyxDGpRkbl7d/giphy.gif" width="280" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3OXAwenYxN3B3aHhpdmdqeHp1cTlxMXM2MDV6NmNwbjl5c2g5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5OgQSxhzjR1t4McGc/giphy.gif" width="280" />
-     <img src="https://media.giphy.com/media/TyxMStrdr7EVnel56L/giphy.gif?cid=ecf05e47dkq2e5imflt5ahdcr6dlwudi48yszjapzbvjartq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" />
-  </p>
-  <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
-</details>
+
 
 <!-- MERN Stack Section -->
 <details open>
