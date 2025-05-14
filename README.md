@@ -101,8 +101,9 @@ const Harsh Rawte = {
   <br>
   <p align="center">
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="280" />
+    <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
+    
   </p>
   <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
 </details>
@@ -113,8 +114,8 @@ const Harsh Rawte = {
   <br>
   <p align="center">
     <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="280" />
-    <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1679457321415/e404c522-8c6c-429a-b226-f8c98b9c3948.gif" width="280" />
- <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlwcGw5bmYzbmhnaWJkdW5zbnVqZjFkdTg2anhzMWJjd3E2bWx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="280" />
+     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlwcGw5bmYzbmhnaWJkdW5zbnVqZjFkdTg2anhzMWJjd3E2bWx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="280" />
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExangyMTFycTB1aHpyOXR5YnkzbG10dWdsbGY5ODhud2x6OGc0NG51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif" width="280" />
   </p>
   <p align="center">CI/CD Pipelines, Container Orchestration, Infrastructure as Code</p>
 </details>
