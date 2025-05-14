@@ -100,7 +100,7 @@ const Harsh Rawte = {
   <summary><b>🧠 AI/ML & Deep Learning</b></summary>
   <br>
   <p align="center">
-   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdsbDB1a2E3aTN3NnZvbXEzbjBpY3BwYTlsbTdoNnA0dGtzZng5cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif" width="280" />
+   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGs5eXh3ODJxZmpkaTZndnR6aDhrNWlweDVwMm01MnM3Y290cWV6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
   </p>
