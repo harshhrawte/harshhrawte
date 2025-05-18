@@ -185,13 +185,15 @@ const Harsh Rawte = {
 </h2>
 
 <p align="center">
+<p align="center">
   <a href="https://github.com/harshhrawte/PrepNexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical&cache_seconds=1" width="400">
   </a>
   <a href="https://github.com/harshhrawte/SelectifyAi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=radical" width="400">
   </a>
 </p>
+
 
 
 <p align="center">
