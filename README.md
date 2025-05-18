@@ -185,11 +185,14 @@ const Harsh Rawte = {
 </h2>
 
 <p align="center">
+  <a href="https://github.com/harshhrawte/PrepNexus">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical" width="400">
+  </a>
   <a href="https://github.com/harshhrawte/SelectifyAi">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=radical" width="400">
   </a>
-  <!-- Add more featured projects as needed -->
 </p>
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
