@@ -28,7 +28,7 @@ const Harsh Rawte = {
   currentFocus: "PrepNexus: Interview Prep Platform",
   learning: ["Kubernetes", "Generative AI", "LLMOps"],
   seeking: ["AI/ML Collaboration", "MERN Stack Development"],
-  contact: "rawteharsh10@gmail.com"
+  contact: "harshrawte.dev@gmail.com"
 };
 ```
 
