@@ -1,20 +1,29 @@
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-  Hi, I'm Harsh Rawte
+<div align="center">
+  
+<!-- Hero Section with Innovative AI/ML DevOps GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400" style="border-radius: 15px;"/>
+<br/>
+<!-- Animated Hello -->
+<h1>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There!+I'm+Harsh+Rawte;AI%2FML+%26+DevOps+Innovator+%F0%9F%A4%96"/>
 </h1>
-
-<h3 align="center">AI/ML & GenAI Developer | NLP Specialist | MERN Stack | AWS, Docker & Jenkins Expert | DevOps Professional</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=harshhrawte&label=Profile%20views&color=0e75b6&style=flat" alt="harshhrawte" />
+<!-- Dynamic Subtitle -->
+<h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+%26+GenAI+Developer+%7C+🧠+NLP+Specialist;🔄+DevOps+Professional+%7C+☁️+AWS%2C+Docker+%26+Jenkins+Expert;⚡+Building+Tomorrow's+AI+Solutions+%7C+🔥+ML+Innovation+Enthusiast"/>
+</h3>
+<br/>
+<!-- Profile Views & Social Proof -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=harshhrawte&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/harshhrawte?tab=followers">
-    <img alt="followers" src="https://img.shields.io/github/followers/harshhrawte?label=Followers&style=social">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/harshhrawte?label=Followers&style=for-the-badge&color=blue&labelColor=black">
   </a>
+  <img src="https://img.shields.io/github/stars/harshhrawte?label=Stars&style=for-the-badge&color=yellow&labelColor=black" alt="GitHub Stars"/>
 </p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 <!-- About Me Section with Animation -->
 <h2>
@@ -22,19 +31,17 @@
   <span>About Me</span>
 </h2>
 
-javascript
-const Harsh Rawte = {
+```javascript
+const HarshRawte = {
   location: "Mumbai",
   currentFocus: "PrepNexus: Interview Prep Platform",
   learning: ["Kubernetes", "Generative AI", "LLMOps"],
   seeking: ["AI/ML Collaboration", "MERN Stack Development"],
   contact: "harshrawte.dev@gmail.com"
 };
+```
 
 
-<p align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</p>
 
 <!-- Tech Stack Section -->
 <h2>
@@ -132,7 +139,6 @@ const Harsh Rawte = {
   <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
 </details>
 
-
 <!-- MERN Stack Section -->
 <details open>
   <summary><b>🌐 Web Development</b></summary>
@@ -178,13 +184,22 @@ const Harsh Rawte = {
   <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=radical&row=1&column=7" alt="GitHub Trophies" />
 </p>
 
+<!-- GitHub Contribution Graph -->
+<h2>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
+  Contribution Graph
+</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhrawte&bg_color=0d1117&color=6366f1&line=8b5cf6&point=f43f5e&area=true&hide_border=true" />
+</p>
+
 <!-- Current projects -->
 <h2>
   <img src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" width="30">
   Featured Projects
 </h2>
 
-<p align="center">
 <p align="center">
   <a href="https://github.com/harshhrawte/PrepNexus">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical&cache_seconds=1" width="400">
@@ -193,8 +208,6 @@ const Harsh Rawte = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=radical" width="400">
   </a>
 </p>
-
-
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -228,6 +241,15 @@ const Harsh Rawte = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
+
+<!-- Inspirational Quote -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
+
+<h2 align="center">
+  ✨ <em>"Innovation distinguishes between a leader and a follower."</em> - Steve Jobs ✨
+</h2>
 
 <!-- Footer -->
 <p align="center">
