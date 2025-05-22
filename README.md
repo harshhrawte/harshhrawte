@@ -6,11 +6,11 @@
 <!-- Animated Hello -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There!+I'm+Harsh+Rawte;AI%2FML+%26+DevOps+Innovator+%F0%9F%A4%96"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There!+I'm+Harsh+Rawte;AI%2FML+%26+DevOps+Enthusiast+%F0%9F%A4%96"/>
 </h1>
 <!-- Dynamic Subtitle -->
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+%26+GenAI+Developer+%7C+🧠+NLP+Specialist;🔄+DevOps+Professional+%7C+☁️+AWS%2C+Docker+%26+Jenkins+Expert;⚡+Building+Tomorrow's+AI+Solutions+%7C+🔥+ML+Innovation+Enthusiast"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+%26+GenAI+Developer+%7C+🧠+NLP+Specialist;🔄+DevOps+Professional+%7C+☁️+AWS%2C+Docker+%26+Jenkins+Expert;⚡+Building+Tomorrow's+AI+Solutions+%7C+🔥+ML+Innovation"/>
 </h3>
 <br/>
 <!-- Profile Views & Social Proof -->
@@ -45,7 +45,9 @@ const HarshRawte = {
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="300" />
   <br/>
-  <h3>🤖 Crafting AI Solutions for Tomorrow</h3>
+<img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Logic-Driven+Real-World+Fixes"/>
+
+
 </div>
 
 <!-- Tech Stack Section -->
@@ -108,7 +110,7 @@ const HarshRawte = {
       <td align="center" width="33%">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="150" />
         <br/>
-        <h4>🧠 Neural Networks & NLP</h4>
+        <h4>🧠 Deep Learning & NLP</h4>
       </td>
       <td align="center" width="33%">
         <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="150" />
@@ -161,9 +163,26 @@ const HarshRawte = {
 <br/>
 
 <!-- Golden GitHub Trophies -->
+<!-- Golden GitHub Trophies -->
+<p align="center">
+
+  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=radical&row=1&column=7" alt="GitHub Trophies" />
+
+</p>
+
+<!-- Alternative with even more golden/bright theme -->
+<!--
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=radical&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
 </div>
+-->
+
+<!-- Another bright alternative -->
+<!--
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
+</div>
+-->
 
 <br/>
 
