@@ -1,24 +1,24 @@
 <div align="center">
   
-<!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+<!-- Hero Section with Innovative AI/ML DevOps GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" height="400" style="border-radius: 15px;"/>
 
 <br/>
 
-<!-- Hero Section with Main GIF -->
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="100%" height="300" style="border-radius: 15px;"/>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Crafting%20Intelligence%20Through%20Code&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 <br/><br/>
 
 <!-- Animated Hello -->
 <h1>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There!+I'm+Harsh+Rawte;AI%2FML+%26+Full+Stack+Wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=2800&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+There!+I'm+Harsh+Rawte;AI%2FML+%26+DevOps+Innovator+%F0%9F%A4%96"/>
 </h1>
 
 <!-- Dynamic Subtitle -->
 <h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+%26+GenAI+Developer+%7C+🧠+NLP+Specialist;🌐+MERN+Stack+Expert+%7C+☁️+AWS%2C+Docker+%26+Jenkins+Pro;⚡+DevOps+Professional+%7C+🔥+Building+the+Future+with+Code"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=🚀+AI%2FML+%26+GenAI+Developer+%7C+🧠+NLP+Specialist;🔄+DevOps+Professional+%7C+☁️+AWS%2C+Docker+%26+Jenkins+Expert;⚡+Building+Tomorrow's+AI+Solutions+%7C+🔥+ML+Innovation+Enthusiast"/>
 </h3>
 
 <br/>
@@ -51,11 +51,12 @@ const HarshRawte = {
     location: "Mumbai, India 🇮🇳",
     currentProject: "PrepNexus: AI-Powered Interview Prep Platform 🚀",
     currentlyLearning: ["Kubernetes ☸️", "Generative AI 🤖", "LLMOps 🔄"],
-    lookingFor: ["AI/ML Collaborations 🤝", "Full Stack Opportunities 💼"],
-    techPassions: ["Artificial Intelligence", "Cloud Computing", "DevOps"],
-    lifePhilosophy: "Code with Purpose, Build with Passion 💫",
+    expertise: ["AI/ML Engineering", "DevOps & Cloud Architecture", "NLP & Computer Vision"],
+    lookingFor: ["AI/ML Collaborations 🤝", "DevOps Engineering Opportunities 💼"],
+    techPassions: ["Artificial Intelligence", "MLOps", "Cloud Computing"],
+    lifePhilosophy: "Turning Data into Intelligence, Ideas into Innovation 🧠",
     contactMe: "harshrawte.dev@gmail.com 📧",
-    funFact: "I turn coffee into code and dreams into applications ☕→💻"
+    funFact: "I train models by day and deploy them by night! 🌙→☀️"
 };
 ```
 
