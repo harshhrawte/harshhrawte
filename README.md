@@ -41,8 +41,6 @@ const HarshRawte = {
 };
 ```
 
-
-
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
@@ -110,7 +108,6 @@ const HarshRawte = {
    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="280" />
     <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="280" />
     <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
-    
   </p>
   <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
 </details>
@@ -156,42 +153,98 @@ const HarshRawte = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- GitHub Stats Section -->
-<h2>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
-  GitHub Stats
+<!-- GitHub Stats Section - Enhanced -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
+  <span style="background: linear-gradient(45deg, #6366f1, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    GitHub Analytics & Performance
+  </span>
+  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
 </h2>
 
-<p align="center">
-  <a href="https://github.com/harshhrawte">
-    <img src="https://github-readme-stats.vercel.app/api?username=harshhrawte&show_icons=true&theme=radical" width="400">
-  </a>
-  <a href="https://github.com/harshhrawte">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhrawte&theme=radical" width="400">
-  </a>
-</p>
+<!-- Enhanced Stats Cards with Better Layout -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=harshhrawte&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E2E8F0&border_radius=10&cache_seconds=86400" height="200" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhrawte&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=8B5CF6&fire=F43F5E&currStreakLabel=8B5CF6&border_radius=10" height="200" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Language Stats & Activity Graph -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrawte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=10&border_radius=10&cache_seconds=86400" />
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshhrawte&theme=tokyonight&utc_offset=5.5" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- Detailed Profile Summary -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrawte&theme=tokyonight" width="90%" />
+</div>
+
+<br/>
+
+<!-- Comprehensive Stats Grid -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrawte&theme=tokyonight" />
+      </td>
+      <td width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshhrawte&theme=tokyonight" />
+      </td>
+      <td width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrawte&theme=tokyonight" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<!-- GitHub Trophies with Enhanced Style -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=discord&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhrawte&bg_color=0D1117&color=6366F1&line=8B5CF6&point=F43F5E&area=true&hide_border=true&custom_title=Contribution%20Activity%20Timeline" width="95%" />
+</div>
+
+<br/>
+
+<!-- Advanced Metrics Display -->
+<div align="center">
+  <details>
+    <summary><b>🔍 Advanced GitHub Metrics</b></summary>
+    <br>
+    <img src="https://metrics.lecoq.io/harshhrawte?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" />
+  </details>
+</div>
 
 <p align="center">
-  <a href="https://github.com/harshhrawte">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrawte&layout=compact&theme=radical" width="400">
-  </a>
-  <a href="https://github.com/harshhrawte">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrawte&theme=radical" width="570">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=radical&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
-<!-- GitHub Contribution Graph -->
-<h2>
-  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30">
-  Contribution Graph
-</h2>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshhrawte&bg_color=0d1117&color=6366f1&line=8b5cf6&point=f43f5e&area=true&hide_border=true" />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <!-- Current projects -->
@@ -202,10 +255,10 @@ const HarshRawte = {
 
 <p align="center">
   <a href="https://github.com/harshhrawte/PrepNexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=radical&cache_seconds=1" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=tokyonight&cache_seconds=1" width="400">
   </a>
   <a href="https://github.com/harshhrawte/SelectifyAi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=radical" width="400">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=tokyonight" width="400">
   </a>
 </p>
 
