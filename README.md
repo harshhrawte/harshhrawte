@@ -41,6 +41,13 @@ const HarshRawte = {
 };
 ```
 
+<!-- Beautiful AI Animation Section -->
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="300" />
+  <br/>
+  <h3>🤖 Crafting AI Solutions for Tomorrow</h3>
+</div>
+
 <!-- Tech Stack Section -->
 <h2>
   <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30">
@@ -94,66 +101,34 @@ const HarshRawte = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Showcase Sections with Animations -->
-<h2>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> 
-  Specialized Areas
-</h2>
-
-<!-- AI/ML Section -->
-<details open>
-  <summary><b>🧠 AI/ML & Deep Learning</b></summary>
-  <br>
-  <p align="center">
-   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="280" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="280" />
-  </p>
-  <p align="center">Working with Neural Networks, NLP, Computer Vision, and Generative AI</p>
-</details>
-
-<!-- DevOps Section -->
-<details open>
-  <summary><b>🔄 DevOps & Cloud Engineering</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="280" />
-     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTlwcGw5bmYzbmhnaWJkdW5zbnVqZjFkdTg2anhzMWJjd3E2bWx6cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif" width="280" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExangyMTFycTB1aHpyOXR5YnkzbG10dWdsbGY5ODhud2x6OGc0NG51ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1y0zSu5hYE1pJSdqmI/giphy.gif" width="280" />
-  </p>
-  <p align="center">CI/CD Pipelines, Container Orchestration, Infrastructure as Code</p>
-</details>
-
-<!-- Data Science Section -->
-<details open>
-  <summary><b>📊 Data Science & Analysis</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW43aTFpdzFuOXY5bWZoeXF4MDIzMGh6ZXRzMnh3dnp4bGF5cXZyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gfYXjXTyxDGpRkbl7d/giphy.gif" width="280" />
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXQ3OXAwenYxN3B3aHhpdmdqeHp1cTlxMXM2MDV6NmNwbjl5c2g5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/U5OgQSxhzjR1t4McGc/giphy.gif" width="280" />
-     <img src="https://media.giphy.com/media/TyxMStrdr7EVnel56L/giphy.gif?cid=ecf05e47dkq2e5imflt5ahdcr6dlwudi48yszjapzbvjartq&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="280" />
-  </p>
-  <p align="center">Data Visualization, Statistical Analysis, Predictive Modeling</p>
-</details>
-
-<!-- MERN Stack Section -->
-<details open>
-  <summary><b>🌐 Web Development</b></summary>
-  <br>
-  <p align="center">
-   <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="280" />
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmMyYzhmMzYxYjFkMzBmNWE0M2RlOWRlYWFmYjRmOTJmMWVjMmQ0MiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" />
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHc1YmlrMW04ZWpmeTlxdHF3NjBveDRnbDhwMjNheGZ0ZTlkNnUxbyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" />
-    <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="100" />
-  </p>
-  <p align="center">MERN Stack Applications, Responsive Design, Web APIs</p>
-</details>
+<!-- Innovation Areas with Animated GIFs -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="150" />
+        <br/>
+        <h4>🧠 Neural Networks & NLP</h4>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="150" />
+        <br/>
+        <h4>🔄 CI/CD & DevOps</h4>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="150" />
+        <br/>
+        <h4>🚀 Generative AI</h4>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- GitHub Stats Section - Enhanced -->
+<!-- GitHub Stats Section - Optimized -->
 <h2 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35" height="35">
   <span style="background: linear-gradient(45deg, #6366f1, #8b5cf6); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
@@ -162,7 +137,7 @@ const HarshRawte = {
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35" height="35">
 </h2>
 
-<!-- Enhanced Stats Cards with Better Layout -->
+<!-- Main Stats Cards -->
 <div align="center">
   <table>
     <tr>
@@ -178,51 +153,16 @@ const HarshRawte = {
 
 <br/>
 
-<!-- Language Stats & Activity Graph -->
+<!-- Language Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrawte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=10&border_radius=10&cache_seconds=86400" />
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=harshhrawte&theme=tokyonight&utc_offset=5.5" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhrawte&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E2E8F0&langs_count=10&border_radius=10&cache_seconds=86400" />
 </div>
 
 <br/>
 
-<!-- Detailed Profile Summary -->
+<!-- Golden GitHub Trophies -->
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrawte&theme=tokyonight" width="90%" />
-</div>
-
-<br/>
-
-<!-- Comprehensive Stats Grid -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshhrawte&theme=tokyonight" />
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshhrawte&theme=tokyonight" />
-      </td>
-      <td width="33%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=harshhrawte&theme=tokyonight" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<!-- GitHub Trophies with Enhanced Style -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=discord&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=harshhrawte&theme=flat&no-frame=true&no-bg=false&margin-w=8&margin-h=8&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
 </div>
 
 <br/>
@@ -234,13 +174,9 @@ const HarshRawte = {
 
 <br/>
 
-<!-- Advanced Metrics Display -->
+<!-- Profile Summary -->
 <div align="center">
-  <details>
-    <summary><b>🔍 Advanced GitHub Metrics</b></summary>
-    <br>
-    <img src="https://metrics.lecoq.io/harshhrawte?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FKolkata" />
-  </details>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrawte&theme=tokyonight" width="90%" />
 </div>
 
 <p align="center">
