@@ -113,7 +113,7 @@ const HarshRawte = {
       <td align="center" width="33%">
         <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="150" />
         <br/>
-        <h4>🔄 CI/CD & DevOps</h4>
+        <h4>🔄 DevOps</h4>
       </td>
       <td align="center" width="33%">
         <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="150" />
