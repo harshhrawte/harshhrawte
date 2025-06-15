@@ -34,15 +34,11 @@
 ```javascript
 const HarshRawte = {
   location: "Mumbai, India 🇮🇳",
-  currentFocus: "PrepNexus: AI-Powered Interview Prep Platform",
+  currentFocus: "AI Agnets and MCP Server",
   learning: ["Kubernetes ☸️", "Generative AI 🤖", "LLMOps 🔄"],
   seeking: ["AI/ML Collaboration 🤝", "MERN Stack Development 💻"],
-  contact: "harshrawte.dev@gmail.com 📧",
-  passion: "Building AI solutions that solve real-world problems 🚀"
+  contact: "harshrawte.dev@gmail.com 📧"
 };
-
-// Current mission
-console.log("Transforming ideas into intelligent solutions! 💡");
 ```
 
 <!-- Beautiful AI Animation Section -->
@@ -182,25 +178,6 @@ console.log("Transforming ideas into intelligent solutions! 💡");
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshhrawte&theme=tokyonight" width="90%" />
 </div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
-
-<!-- Featured Projects -->
-<h2>
-  <img src="https://media.giphy.com/media/JpYdtQifMv3SAsnf8j/giphy.gif" width="30">
-  Featured Projects
-</h2>
-
-<p align="center">
-  <a href="https://github.com/harshhrawte/PrepNexus">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=PrepNexus&theme=tokyonight&cache_seconds=1" width="400">
-  </a>
-  <a href="https://github.com/harshhrawte/SelectifyAi">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=harshhrawte&repo=SelectifyAi&theme=tokyonight" width="400">
-  </a>
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
