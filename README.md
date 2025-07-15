@@ -42,11 +42,7 @@ const HarshRawte = {
 ```
 
 <!-- Beautiful AI Animation Section -->
-<div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Mzb3ltdnRwY2RhbTdzcTZ2MTgweTZxdDJ3MHJyMGJlbWN0bjBzeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CVtNe84hhYF9u/giphy.gif" width="300" />
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Comfortaa&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Logic-Driven+Real-World+Fixes+💡"/>
-</div>
+
 
 <!-- Tech Stack Section -->
 <h2>
@@ -101,32 +97,6 @@ const HarshRawte = {
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
-<!-- Innovation Areas with Animated GIFs -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmd1amZud2x2MGh6aDRmYjB0b2h0bjQ4cjJieHdmNmdnano5MzFuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eeL6lB9x9ZfeLiy1Nh/giphy.gif" width="150" />
-        <br/>
-        <h4>🧠 Deep Learning & NLP</h4>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://razorops.com/images/newsletter/ci-cd-pipelines-streamlining-software-delivery-with-automation.gif" width="150" />
-        <br/>
-        <h4>🔄 DevOps</h4>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://media.giphy.com/media/3oFzlVJAzNUDwvpcc0/giphy.gif" width="150" />
-        <br/>
-        <h4>🚀 Generative AI</h4>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 
 <!-- GitHub Stats Section - Optimized -->
 <h2 align="center">
